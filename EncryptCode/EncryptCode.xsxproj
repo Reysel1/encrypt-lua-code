@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Project fullMode="0" deviceResolution="2560x1440" designResolution="640x960">
+  <project-home>.</project-home>
+  <exclude-files />
+  <assets>
+    <item path="db.lua" dflag="131076" />
+  </assets>
+  <inspect-dirs>
+    <item></item>
+  </inspect-dirs>
+  <ssheets />
+  <assets.ref />
+  <debug-options />
+</Project>
